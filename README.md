@@ -4,7 +4,7 @@
 ## Languages used: C#, SQL
 ## Working time: 10h
 ### The project has many bugs because I didn't have time. But, in 10 hours, it's great how many things I managed to implement!
-### Required: .net framework, database file sql.
+### Required: .net framework, database file sql, GUNAUI.
 
 <br><br><br>
 
