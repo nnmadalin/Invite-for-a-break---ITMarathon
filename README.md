@@ -1,6 +1,6 @@
 # Invite-for-a-break---ITMarathon
 ## **First place** at the IT Marathon, desktop and mobile application section!
-## Launch: April 1, 2023
+## Run on: April 1, 2023
 ## Languages used: C#, SQL
 ## Working time: 10h
 ### The project has many bugs because I didn't have time. But, in 10 hours, it's great how many things I managed to implement!
